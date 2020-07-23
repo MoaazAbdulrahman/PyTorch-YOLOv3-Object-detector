@@ -7,8 +7,8 @@ implementation of YOLOv3. The official darknet website can be found [here](https
 
 ### Install requirements
 ```
-$ git clone https://github.com/eriklindernoren/PyTorch-YOLOv3
-$ cd PyTorch-YOLOv3/
+$ git clone https://github.com/MoaazAbdulrahman/PyTorch-YOLOv3-Object-detector
+$ cd PyTorch-YOLOv3-Object-detector/
 $ sudo pip install -r requirements.txt
 ```
 Download model weights [here](https://pjreddie.com/media/files/yolov3.weights) and add it to weights folder  
